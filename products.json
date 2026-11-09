@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "name": "Premium Smart Watch",
+    "category": "Electronics",
+    "description": "Modern technology and style",
+    "price": "Check Latest Price",
+    "image": "https://placehold.co/600x450/252525/d8b76a?text=Smart+Watch",
+    "buyLink": "#"
+  },
+  {
+    "id": "p2",
+    "name": "Luxury Fashion Bag",
+    "category": "Fashion",
+    "description": "Elegant everyday collection",
+    "price": "Check Latest Price",
+    "image": "https://placehold.co/600x450/252525/d8b76a?text=Fashion+Bag",
+    "buyLink": "#"
+  },
+  {
+    "id": "p3",
+    "name": "Beauty Care Set",
+    "category": "Beauty",
+    "description": "Discover your beauty essentials",
+    "price": "Check Latest Price",
+    "image": "https://placehold.co/600x450/252525/d8b76a?text=Beauty+Care",
+    "buyLink": "#"
+  },
+  {
+    "id": "p4",
+    "name": "Modern Home Decor",
+    "category": "Home",
+    "description": "Upgrade your living space",
+    "price": "Check Latest Price",
+    "image": "https://placehold.co/600x450/252525/d8b76a?text=Home+Decor",
+    "buyLink": "#"
+  }
+]
